@@ -1,0 +1,11 @@
+.in{
+    margin: 10px;
+}
+.fondo{
+    background-color: rgb(113, 253, 206);
+}
+.fuente{
+    text-align: center;
+    color: rgb(76, 0, 255);
+    font-size: 20px;
+}
